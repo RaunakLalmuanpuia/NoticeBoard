@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="629.167" height="417.122" viewBox="0 0 629.167 417.122">
+    <defs>
+        <filter id="Rectangle_1996" width="592.333" height="417.122" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur" stdDeviation="15"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Path_1282" width="556" height="340" x="73.167" y="38.561" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur-2" stdDeviation="15"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur-2" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <clipPath id="clip-path">
+            <path id="Rectangle_1997" fill="#fff" stroke="#707070" d="M0 0H45V45H0z" transform="translate(1397 2117)"/>
+        </clipPath>
+        <style>
+            .cls-3,.cls-5,.cls-7{fill:#fff}.cls-2{fill:#31333b}.cls-3{font-size:16px;font-family:Poppins-Regular,Poppins}.cls-4{fill:#8a8a8a;font-size:14px;font-family:Poppins-Light,Poppins;font-weight:300}.cls-5{font-size:30px;font-family:Poppins-Medium,Poppins;font-weight:500}.cls-6{clip-path:url(#clip-path)}
+        </style>
+    </defs>
+    <g id="Group_465" transform="translate(-929.833 -1942.439)">
+        <g id="Group_365" transform="rotate(-10 1156.769 2344.101)">
+            <g filter="url(#Rectangle_1996)" transform="matrix(.98 .17 -.17 .98 1003.03 1909.13)">
+                <rect id="Rectangle_1996-2" width="466" height="250" class="cls-2" rx="23" transform="rotate(-10 724.991 -195.716)"/>
+            </g>
+            <text id="Membership_Card" class="cls-3" transform="translate(1304 2101)">
+                <tspan x="0" y="0">Membership Card</tspan>
+            </text>
+            <text id="TGR-1234" class="cls-4" transform="translate(1067 2226)">
+                <tspan x="0" y="0">TGR-1234</tspan>
+            </text>
+            <text id="GOLD_MEMBER" class="cls-5" transform="translate(1067 2204)">
+                <tspan x="0" y="0">GOLD MEMBER</tspan>
+            </text>
+            <g id="Mask_Group_231" class="cls-6" transform="translate(-330 -44)">
+                <g id="tgc_logo" transform="translate(1397.39 2117)">
+                    <path id="Path_1275" d="M42.614 33.237l-.835-.789-4.035 4.31-35.07-35.07-.945.945 39.115 39.114.073-.073.871-.871 3.421-3.54.018.018.789-.835zm-.789.835l.926.871-3.366 3.448-.825-.825zm-.844 5.915l-.789-.789 3.393-3.476.789.752z" class="cls-7" transform="translate(-1.73 -.927)"/>
+                    <path id="Path_1276" d="M1.73 36.446l.789.835.018-.018L5.958 40.8l.871.871.073.073L46.017 2.633l-.945-.945L10 36.749l-4.035-4.31-.835.78zm7.465 1.119l-.825.825L5 34.942l.926-.871zm-5.824-1.091l.789-.752L7.553 39.2l-.789.789z" class="cls-7" transform="translate(-1.73 -.927)"/>
+                    <path id="Path_1277" d="M61.772 60.707l-.853.88-.018-.009z" class="cls-7" transform="translate(-21.686 -20.832)"/>
+                    <g id="Group_363" transform="translate(.009 16.104)">
+                        <path id="Path_1278" d="M9.025 25.637a3.962 3.962 0 0 1 1.486 2.2H9.245a2.834 2.834 0 0 0-1.11-1.366 3.19 3.19 0 0 0-1.835-.513 3.329 3.329 0 0 0-1.7.442 3.039 3.039 0 0 0-1.183 1.266 4.153 4.153 0 0 0-.435 1.934 4.107 4.107 0 0 0 .44 1.963 3.182 3.182 0 0 0 1.211 1.275 3.531 3.531 0 0 0 1.779.44 3.359 3.359 0 0 0 1.577-.367 3.017 3.017 0 0 0 1.174-1.082 3.711 3.711 0 0 0 .55-1.66H6.045v-.9h4.686v1.11a4.68 4.68 0 0 1-.688 2.008 4.181 4.181 0 0 1-1.532 1.431 4.443 4.443 0 0 1-2.2.532 4.632 4.632 0 0 1-2.384-.605 4.16 4.16 0 0 1-1.6-1.678 5.556 5.556 0 0 1 0-4.934 4.245 4.245 0 0 1 1.6-1.687 4.588 4.588 0 0 1 2.366-.605 4.5 4.5 0 0 1 2.732.796z" class="cls-7" transform="translate(-1.744 -24.839)"/>
+                    </g>
+                    <g id="Group_364" transform="translate(19.048)">
+                        <path id="Path_1279" d="M36.937.54v.981H34.3v8.355h-1.2V1.521h-2.629V.54z" class="cls-7" transform="translate(-30.471 -.54)"/>
+                    </g>
+                    <path id="Path_1280" d="M61.518 26.043a4.237 4.237 0 0 1 1.532 2.3h-1.276a3.126 3.126 0 0 0-1.156-1.477 3.348 3.348 0 0 0-1.944-.55 3.066 3.066 0 0 0-1.632.44 3.028 3.028 0 0 0-1.142 1.277 4.308 4.308 0 0 0-.422 1.944 4.075 4.075 0 0 0 .422 1.917 2.989 2.989 0 0 0 2.77 1.706 3.308 3.308 0 0 0 1.944-.55 3.126 3.126 0 0 0 1.156-1.477h1.275a4.314 4.314 0 0 1-1.532 2.293 4.555 4.555 0 0 1-2.825.844 4.422 4.422 0 0 1-2.32-.605 4.2 4.2 0 0 1-1.568-1.679 5.219 5.219 0 0 1-.559-2.458 5.3 5.3 0 0 1 .559-2.476 4.162 4.162 0 0 1 1.573-1.692 4.4 4.4 0 0 1 2.32-.605 4.555 4.555 0 0 1 2.825.848z" class="cls-7" transform="translate(-19.441 -8.856)"/>
+                    <path id="Path_1281" d="M35.983 58v1h-.394a14.232 14.232 0 0 0-.871 3.751 14.025 14.025 0 0 0-.018 2.229h-.449c-.028-.853-.028-1.614-.073-2.247a18.857 18.857 0 0 0-1.018-3.742h-.431V58h3.256z" class="cls-7" transform="translate(-12.184 -19.917)"/>
+                    <circle id="Ellipse_125" cx="2.742" cy="2.742" r="2.742" class="cls-7" transform="translate(19.424 31.411)"/>
+                </g>
+            </g>
+        </g>
+        <g id="Group_366" transform="translate(22 -15)">
+            <g filter="url(#Path_1282)" transform="translate(907.83 1957.44)">
+                <path id="Path_1282-2" d="M23 0h420a23 23 0 0 1 23 23v204a23 23 0 0 1-23 23H23a23 23 0 0 1-23-23V23A23 23 0 0 1 23 0z" class="cls-2" transform="translate(118.17 80.56)"/>
+            </g>
+            <text id="Membership_Card-2" class="cls-3" transform="translate(1304 2101)">
+                <tspan x="0" y="0">Membership Card</tspan>
+            </text>
+            <text id="TGR-1234-2" class="cls-4" transform="translate(1067 2226)">
+                <tspan x="0" y="0">TGR-1234</tspan>
+            </text>
+            <text id="GOLD_MEMBER-2" class="cls-5" transform="translate(1067 2204)">
+                <tspan x="0" y="0">GOLD MEMBER</tspan>
+            </text>
+            <g id="Mask_Group_231-2" class="cls-6" transform="translate(-330 -44)">
+                <g id="tgc_logo-2" transform="translate(1397.39 2117)">
+                    <path id="Path_1275-2" d="M42.614 33.237l-.835-.789-4.035 4.31-35.07-35.07-.945.945 39.115 39.114.073-.073.871-.871 3.421-3.54.018.018.789-.835zm-.789.835l.926.871-3.366 3.448-.825-.825zm-.844 5.915l-.789-.789 3.393-3.476.789.752z" class="cls-7" transform="translate(-1.73 -.927)"/>
+                    <path id="Path_1276-2" d="M1.73 36.446l.789.835.018-.018L5.958 40.8l.871.871.073.073L46.017 2.633l-.945-.945L10 36.749l-4.035-4.31-.835.78zm7.465 1.119l-.825.825L5 34.942l.926-.871zm-5.824-1.091l.789-.752L7.553 39.2l-.789.789z" class="cls-7" transform="translate(-1.73 -.927)"/>
+                    <path id="Path_1277-2" d="M61.772 60.707l-.853.88-.018-.009z" class="cls-7" transform="translate(-21.686 -20.832)"/>
+                    <g id="Group_363-2" transform="translate(.009 16.104)">
+                        <path id="Path_1278-2" d="M9.025 25.637a3.962 3.962 0 0 1 1.486 2.2H9.245a2.834 2.834 0 0 0-1.11-1.366 3.19 3.19 0 0 0-1.835-.513 3.329 3.329 0 0 0-1.7.442 3.039 3.039 0 0 0-1.183 1.266 4.153 4.153 0 0 0-.435 1.934 4.107 4.107 0 0 0 .44 1.963 3.182 3.182 0 0 0 1.211 1.275 3.531 3.531 0 0 0 1.779.44 3.359 3.359 0 0 0 1.577-.367 3.017 3.017 0 0 0 1.174-1.082 3.711 3.711 0 0 0 .55-1.66H6.045v-.9h4.686v1.11a4.68 4.68 0 0 1-.688 2.008 4.181 4.181 0 0 1-1.532 1.431 4.443 4.443 0 0 1-2.2.532 4.632 4.632 0 0 1-2.384-.605 4.16 4.16 0 0 1-1.6-1.678 5.556 5.556 0 0 1 0-4.934 4.245 4.245 0 0 1 1.6-1.687 4.588 4.588 0 0 1 2.366-.605 4.5 4.5 0 0 1 2.732.796z" class="cls-7" transform="translate(-1.744 -24.839)"/>
+                    </g>
+                    <g id="Group_364-2" transform="translate(19.048)">
+                        <path id="Path_1279-2" d="M36.937.54v.981H34.3v8.355h-1.2V1.521h-2.629V.54z" class="cls-7" transform="translate(-30.471 -.54)"/>
+                    </g>
+                    <path id="Path_1280-2" d="M61.518 26.043a4.237 4.237 0 0 1 1.532 2.3h-1.276a3.126 3.126 0 0 0-1.156-1.477 3.348 3.348 0 0 0-1.944-.55 3.066 3.066 0 0 0-1.632.44 3.028 3.028 0 0 0-1.142 1.277 4.308 4.308 0 0 0-.422 1.944 4.075 4.075 0 0 0 .422 1.917 2.989 2.989 0 0 0 2.77 1.706 3.308 3.308 0 0 0 1.944-.55 3.126 3.126 0 0 0 1.156-1.477h1.275a4.314 4.314 0 0 1-1.532 2.293 4.555 4.555 0 0 1-2.825.844 4.422 4.422 0 0 1-2.32-.605 4.2 4.2 0 0 1-1.568-1.679 5.219 5.219 0 0 1-.559-2.458 5.3 5.3 0 0 1 .559-2.476 4.162 4.162 0 0 1 1.573-1.692 4.4 4.4 0 0 1 2.32-.605 4.555 4.555 0 0 1 2.825.848z" class="cls-7" transform="translate(-19.441 -8.856)"/>
+                    <path id="Path_1281-2" d="M35.983 58v1h-.394a14.232 14.232 0 0 0-.871 3.751 14.025 14.025 0 0 0-.018 2.229h-.449c-.028-.853-.028-1.614-.073-2.247a18.857 18.857 0 0 0-1.018-3.742h-.431V58h3.256z" class="cls-7" transform="translate(-12.184 -19.917)"/>
+                    <circle id="Ellipse_125-2" cx="2.742" cy="2.742" r="2.742" class="cls-7" transform="translate(19.424 31.411)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

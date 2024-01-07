@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Rectangle_1833" data-name="Rectangle 1833" transform="translate(115 585)" style="fill:#fff;stroke:#707070" d="M0 0h15v15H0z"/>
+        </clipPath>
+        <style>
+            .cls-3{fill:#606060}
+        </style>
+    </defs>
+    <g id="Mask_Group_176" data-name="Mask Group 176" transform="translate(-115 -585)" style="clip-path:url(#clip-path)">
+        <g id="_02_tariff" data-name="02 tariff" transform="translate(114.908 584.879)">
+            <path id="Path_1124" data-name="Path 1124" class="cls-3" d="M7.591 15.121a7.5 7.5 0 0 1-5.3-12.8 7.507 7.507 0 0 1 10.609 0 7.507 7.507 0 0 1 0 10.609 7.443 7.443 0 0 1-5.309 2.191zm0-14.089a6.589 6.589 0 1 0 6.589 6.589 6.595 6.595 0 0 0-6.589-6.589z"/>
+            <path id="Path_1125" data-name="Path 1125" class="cls-3" d="M5.623 4.779H10.2v.009a7.11 7.11 0 0 1-.459.668H8.52a1.622 1.622 0 0 1 .343.72h1.306c.015 0 .024.009.024.018q-.437.656-.446.656H8.9a1.923 1.923 0 0 1-.325.814 1.976 1.976 0 0 1-.747.622 2.949 2.949 0 0 1-1.275.319v.009q0 .046 2.757 3.27H8.092Q5.4 8.756 5.408 8.742v-.635l.009-.024a4.2 4.2 0 0 0 .556.033c1 0 1.628-.325 1.87-.975a.76.76 0 0 0 .057-.294H5.177a.016.016 0 0 1-.018-.018c.3-.437.455-.656.462-.656h2.161v-.009a1.268 1.268 0 0 0-.72-.586 2.271 2.271 0 0 0-.686-.124H5.168v-.025c.295-.434.443-.65.455-.65z"/>
+        </g>
+    </g>
+</svg>

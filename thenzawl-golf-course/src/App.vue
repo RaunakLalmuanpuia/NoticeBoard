@@ -1,0 +1,45 @@
+<template>
+  <router-view />
+</template>
+
+<script>
+export default {
+  name: "App",
+};
+</script>
+<style>
+
+@media (max-width: 599px) {
+    .my-container{
+        padding: 8px;
+    }
+}
+@media (max-width: 1024px) {
+    .my-container {
+        max-width: 900px;
+        margin-right: auto;
+        margin-left: auto;
+        padding-left: 6px;
+        padding-right: 6px;
+    }
+}
+@media (max-width:1439px) {
+    .my-container {
+        max-width: 1100px;
+        margin-right: auto;
+        margin-left: auto;
+        padding-left: 6px;
+        padding-right: 6px;
+    }
+}
+
+@media (max-width: 1919px) {
+    .my-container {
+        max-width: 1250px;
+        margin-right: auto;
+        margin-left: auto;
+        padding-left: 6px;
+        padding-right: 6px;
+    }
+}
+</style>
